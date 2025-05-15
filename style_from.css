@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(173,216,230);
+    padding: 10px;
+}
+
+.header {
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav ul li  {
+    text-decoration:10;
+    color: black;
+    margin-left: 20px;
+}
+ h1 {
+    font-size: 4em;
+    margin-bottom: 10px;
+    color: #ff0000;
+    text-align: center
+}
